@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Расстрельный список </string>
+    <string name="search_hint">Поиск</string>
+    <string name="title_search">Поиск</string>
+</resources>
